@@ -27,18 +27,8 @@
   </p>
 </div>
   
-
-## Technologies I am learning -
-
-<div>
-  <p align="center">
-     <img height="40" width="40" src="https://cdn.svgporn.com/logos/aws.svg">
-        <img height="40" width="40" src="https://cdn.svgporn.com/logos/firebase.svg">
-    </p>
-  </div>
   
   
- 
 
 
 ## Goals for 2020 -
