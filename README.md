@@ -1,4 +1,4 @@
-### Hi there I am Devesh 👋
+### Hi there I am Sumit 👋
 
 🚀 I am a **Software Architect** who loves Frontend and Backend <br>
 ⛰ Part time Traveller <br>
