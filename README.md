@@ -5,7 +5,9 @@
 🤓 Full time Nerd <br> 
 📢 Also a Community Enthusiast
 
+
  ![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=geekypandajpr&show_icons=true&theme=tokyonight)
+ 
 
 ## Technologies I work on - 
 
@@ -30,7 +32,6 @@
   
   
 
-
 ## Goals for 2020 -
 
 
@@ -52,6 +53,7 @@
       </tbody>
 </table>
 <br>
+
 
 ## Wanna say Hi 👋👋
 
